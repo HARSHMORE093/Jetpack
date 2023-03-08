@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">livedata and viewModel</string>
+    <string name="update">Update</string>
+    <string name="textview">TextView</string>
+</resources>
